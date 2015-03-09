@@ -66,5 +66,5 @@ var stringifyJSON = function(obj) {
   return string;
 };
 
-console.log(stringifyJSON([{a:1,b:2,c:3}]));
-console.log(JSON.stringify([{a:1,b:2,c:3}]));
+//console.log(stringifyJSON([{a:1,b:2,c:3}]));
+//console.log(JSON.stringify([{a:1,b:2,c:3}]));
